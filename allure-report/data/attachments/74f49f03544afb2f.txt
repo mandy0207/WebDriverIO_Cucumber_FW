@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//div[@class='select-box__trigger nav-bar-item nav-bar-account-button']"
+}

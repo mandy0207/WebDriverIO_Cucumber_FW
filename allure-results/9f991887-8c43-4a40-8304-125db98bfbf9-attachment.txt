@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": ".select-box.select.title-select .select__dropdown .select-box__options div"
+}
