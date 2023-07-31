@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\".party-details__title\"}\n  (Session info: chrome=115.0.5790.110)",
+  "stacktrace": "Backtrace:\n\tGetHandleVerifier [0x00007FF661A13E62+57250]\n\t(No symbol) [0x00007FF66198BC02]\n\t(No symbol) [0x00007FF66185E0BB]\n\t(No symbol) [0x00007FF66189765E]\n\t(No symbol) [0x00007FF66189774C]\n\t(No symbol) [0x00007FF6618D0267]\n\t(No symbol) [0x00007FF6618B67EF]\n\t(No symbol) [0x00007FF6618CE312]\n\t(No symbol) [0x00007FF6618B6583]\n\t(No symbol) [0x00007FF66188CC71]\n\t(No symbol) [0x00007FF66188DE54]\n\tGetHandleVerifier [0x00007FF661CC4CF2+2879026]\n\tGetHandleVerifier [0x00007FF661D16F30+3215472]\n\tGetHandleVerifier [0x00007FF661D0FD4F+3186319]\n\tGetHandleVerifier [0x00007FF661AA5505+652869]\n\t(No symbol) [0x00007FF661997518]\n\t(No symbol) [0x00007FF6619935F4]\n\t(No symbol) [0x00007FF6619936EC]\n\t(No symbol) [0x00007FF6619838E3]\n\tBaseThreadInitThunk [0x00007FFF4A9A26AD+29]\n\tRtlUserThreadStart [0x00007FFF4BC0AA68+40]\n"
+}

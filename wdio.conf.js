@@ -166,7 +166,7 @@ exports.config = {
         // <boolean> fail if there are any undefined or pending steps
         strict: false,
         // <string> (expression) only execute the features or scenarios with tags matching the expression
-        tagExpression: '@Reg',
+        tagExpression: '',
         // <number> timeout for step definitions
         timeout: 60000,
         // <boolean> Enable this config to treat undefined definitions as warnings.
@@ -195,8 +195,6 @@ exports.config = {
        const passwordInput = await browser.$("//input[@id='login:passwordDecorate:password']");
        const loginButton = await browser.$("//input[@id='login:login']");
       
-
-   
        await usernameInput.setValue("mscoding24");
        await passwordInput.setValue("AutomationDemo24");
        await loginButton.click();

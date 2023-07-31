@@ -46,6 +46,7 @@ module.exports = class BasePage {
     async TOHaveTextContaining(element, text){
         await expect(element).toHaveTextContaining(text);
     }
+    
 
     async WaitUntilDislplayed(element){
         await browser.waitUntil(async function () {

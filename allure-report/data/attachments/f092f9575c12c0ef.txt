@@ -1,4 +1,0 @@
-{
-  "using": "xpath",
-  "value": "//*[@aria-label ='Delete contacts']"
-}

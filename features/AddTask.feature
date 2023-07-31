@@ -10,6 +10,8 @@ Then user is able to add task with following information
 |  Learn WebDriverIo    |        Meeting       |
 |  Learn Selenium       |        Call          |
 
+
+@Reg
 Scenario: To validate user is able to delete all Tasks
 Given user logsIn
 When user clicks on Calender & Tasks

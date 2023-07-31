@@ -1,4 +1,0 @@
-{
-  "using": "xpath",
-  "value": "(//*[@class='select-box__options'])[3]//div"
-}
